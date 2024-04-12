@@ -29,7 +29,7 @@
 // Install
 // mkdir /usr/local/src/vudubond3
 // cd /usr/local/src/vudubond3;
-// https://raw.githubusercontent.com/Vudubond/disable_cron_hook/master/disable_cron_hook.php
+// wget https://raw.githubusercontent.com/Vudubond/disable_cron_hook/main/disable_cron_hook.php
 // copy file to folder
 // chown root:root /usr/local/src/vudubond3/disable_cron_hook.php;
 // chmod 755 /usr/local/src/vudubond3/disable_cron_hook.php;
